@@ -3,7 +3,7 @@ Contributors: naa986
 Donate link: http://wphowto.net/
 Tags: maintenance, maintenance mode, admin, administration, coming soon, mode, multisite, unavailable, under construction, construction, landing page, launch, offline
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
